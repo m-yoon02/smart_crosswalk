@@ -10,7 +10,7 @@ User can use the android app to send signal to the cross walk;
 
 Features
 1. Used timer 1 (16bits)
-2. Every tick the I2C will send a data to the phone, into the ring buffer.
+2. Every tick the I2C will send a data to the phone and mini OLED, into the ring buffer.
 
 IDE
 1.MPLab IDE
